@@ -10,8 +10,3 @@ Arianna is also a Pilates and fitness trainer, seniors’ instructor,
 diet and supplementation consultant, a rehab advisor and a Sports and
 Remedial Massage therapist, having graduated at the North London School
 of Sports Massage.
-
-     
-
-
-
