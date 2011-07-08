@@ -1,0 +1,22 @@
+- name: Goodrich Community Primary School
+  site: http://www.goodrich.org.uk
+  email: office@goodrich.southwark.sch.uk
+  neighbourhood: Dulwich
+  address: 
+    street: Dunstans Road  
+    street2: East Dulwich
+    city:   London
+    postcode: SE22 0EP
+    tel: 020 8693 1050  
+    fax: 020 8299 2775  
+
+- name: Goodliffe Hall Project
+  site: http://www.gipsyhill.org.uk/pages/the-goodliffe-hall.php
+  email: goodliffehall@gipsyhill.org.uk
+  neighbourhood: Gipsy Hill
+  address: 
+    street: Christ Church Gipsy Hill
+    street2: 1 Highland Road
+    city:   London
+    postcode: SE19 1DP
+    tel: 020 8761 5927

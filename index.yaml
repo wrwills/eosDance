@@ -1,0 +1,48 @@
+- url      : index.html
+  title    : Home
+  template : index.st
+  data     :
+    schools : FROM schools.yaml
+  requires : schoolShort.st 
+
+- url      : aboutus.html
+  title    : About Me
+  template : aboutus.st
+ 
+- url      : classes.html
+  title    : Classes
+  template : classes.st
+
+- url      : enrolment.html
+  title    : Enrolment
+  template : enrolment.st
+  data     :
+    schools : FROM schools.yaml
+  requires : schoolPdfs.st 
+
+
+- url      : timetable.html
+  title    : Timetable
+  template : timetable.st
+
+- url      : links.html
+  title    : Links
+  template : links.st
+
+- url      : contact.html
+  title    : Contact
+  template : contact.st
+  requires : schoolFullAddress.st 
+  data     :
+    schools : FROM schools.yaml
+
+- url      : schools.markdown
+  title    : Schools
+  template : schools.st
+  requires : schoolFullAddress.st
+  layout   : layout.markdown.st
+  inmenu   : no
+  data     :
+    schools : FROM schools.yaml
+
+

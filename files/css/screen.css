@@ -1,0 +1,164 @@
+@import url("http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css");
+/* 
+@import url("reset-fonts-grids.css"); 
+
+*/
+@import url("base-min.css");
+@import url("hk-pyg.css");
+
+
+html { 
+  background-color:("#ffffff");
+  color: gray;  
+}
+
+
+
+hr { height: 1px; color: #aaa; background-color: #aaa; border: 0; margin: .2em 0 .2em 0; }
+
+h1 { font-size: 153.9%; 
+     border-top: 1px solid #ccc;  
+     border-bottom: 2px solid #ccc;
+     }
+h2 { font-size: 138.5%; margin: 1.14em 0 .57em; }
+h3 { font-size: 123.1%; margin: 1.23em 0 .615em; }
+h4 { font-size: 116%; margin: 1.33em 0 .67em; }
+h5 { font-size: 108%; margin: 1.6em 0 .8em; }
+h6 { font-size: 100%; margin: 1.6em 0 .8em; }
+
+
+ul { list-style-type: square; }
+dt { font-weight: bold; margin-bottom: .1em; }
+
+table { border-top: 1px solid #ccc;  border-left: 1px solid #ccc; }
+th, td { border-bottom: 1px solid #ddd; border-right: 1px solid #ccc; }
+
+blockquote { padding: 0 1.6em; color: #666; }
+
+div.pdfLinks ul > li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+div.pdfLinks a {
+	  background: url("../img/application-pdf.png") no-repeat scroll left center;	  
+	  padding: 2px 2px 2px 24px;
+	  margin: 2px;
+}
+
+/* COLORS */
+
+a { color: black; }
+a:hover { text-decoration: underline; color: gray; }
+
+ul.nav > li { font-size: 123%; margin-bottom: 0.7em; }
+
+ul > li > a { color: black; 
+                   text-decoration: none; }
+
+ul > li > a:link { color: black; 
+                   text-decoration: none; }
+
+ul > li > a:hover { text-decoration: underline; color: gray; }
+
+/* code,  pre { color: #c33; } /* very optional, but still useful. W3C uses about the same colors for codes */
+
+
+h1 > a:link, h1 > a:active, h1 > a:hover, h1 > a:focus, h1 > a:visited,
+h2 > a:link, h2 > a:active, h2 > a:hover, h2 > a:focus, h2 > a:visited,
+h3 > a:link, h3 > a:active, h3 > a:hover, h3 > a:focus, h3 > a:visited,
+h4 > a:link, h4 > a:active, h4 > a:hover, h4 > a:focus, h4 > a:visited,
+h5 > a:link, h5 > a:active, h5 > a:hover, h5 > a:focus, h5 > a:visited,
+h6 > a:link, h6 > a:active, h6 > a:hover, h6 > a:focus, h6 > a:visited {
+        color: black;
+        text-decoration: none;
+}
+
+pre,code { font-family: Arial Monospaced, monospace;
+/*           line-height: 0.8; */
+           font-size: 12px;
+           }
+
+div#maincol { max-width: 46em; }
+
+#ft { 
+    height: 190px;
+    //background-image:url('../generated_images/grand_jete_with_sun_background_and_gradient.png');
+    //background-repeat: no-repeat;
+    //background-position: right top;
+    color: black;
+    position: relative;
+    vertical-align: bottom;
+}
+
+#ft > span {
+    vertical-align: bottom;
+}
+
+div#hd { 
+             height:90px;
+             }
+
+div#hd > h1 { color: black;
+              font-family:"Bradley Hand ITC","Lucida Calligraphy","URW Chancery L";
+              font-size: 26pt;
+              font-style: italic;
+              line-height:119%;
+/*	      float: right; */
+              margin-left: 5em;
+	      margin-right: 1em;
+              border: none;
+              }
+
+
+div#doc {
+  background-position: right;      
+  background-image:url('../generated_images/gradient-0.png');
+  background-repeat: repeat-y;
+}
+
+div#doc { 
+//  background-image:url('../generated_images/grand_jete_with_sun_background_and_gradient.png');
+//  background-repeat: no-repeat;
+//  background-position: right top;
+          line-height: 1.4;
+           }
+
+div#logoimg {
+    background-image:url('../generated_images/grand_jete_with_sun_and_text.png');
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+div#bd {
+  margin-right: 125px;
+  font:13px/1.231 calibri,arial,helvetica,clean,sans-serif;
+}
+
+div#yui-main {
+    margin-top: 80px;
+}
+
+/* lower menu */
+div.yui-b {
+    margin-top: 40px;
+}
+
+img#logo { float: right; }
+
+
+div#imgs {  float: right; margin-left: 1em; }
+
+div#imgs > img { float: none; margin-bottom: 1em; }
+
+img { 
+      margin: 1em;
+      margin-right: 0em;
+      margin-top: 0em;
+      }
+
+img.centered { float: none; margin: 0 auto; text-align: center; }
+
+
+strong { color: fuchsia; }
