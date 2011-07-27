@@ -10,3 +10,7 @@ Our classes currently run at the following locations:
 $schools:schoolShort()$
 
 
+•	Goodrich School (Dulwich)
+•	Goodliffe Hall, Christ Church (Gipsy Hill)
+•	Antenna Studios (Crystal Palace)
+•	Central London (private coaching)
