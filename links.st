@@ -10,6 +10,6 @@
 
 [Goodliffe Hall](http://www.gipsyhill.org.uk/pages/the-goodliffe-hall.php)
 
-http://www.antennastudios.co.uk/
+[Antenna Studios] (http://www.antennastudios.co.uk/)
 
 [Tinlids Parties](http://www.tinlidsparties.com/)
