@@ -25,7 +25,7 @@ Tel: 020 8693 1050
 Fax:020 8299 2775
 Email:office@goodrich.southwark.sch.uk
 
-Goodliffe Hall Project
+Goodliffe Hall
 
 Christ Church Gipsy Hill, 
 1 Highland Road, 
@@ -33,6 +33,14 @@ London
 SE19 1DP
 Tel: 020 8761 5927 
 Email: goodliffehall@gipsyhill.org.uk
+
+Antenna Studios
+Bowyers Yard, Haynes Lane
+London
+SE19 3AN
+Tel: 020 8653 5200
+Email: info@antennastudios.co.uk
+
 
 
 
