@@ -15,6 +15,8 @@ enquiries regarding specific goals or request of advice.
 
 [EOS Dance School Registration Form](EOS Dance School - Registration form.pdf)
 
+[Calendar 2011-2012](pdfs/Class Calendar 2011-2012.pdf)
+
 $schools:schoolPdfs()$
   
 </div>

@@ -10,7 +10,7 @@
     tel: 020 8693 1050  
     fax: 020 8299 2775  
 
-- name: Goodliffe Hall Project
+- name: Goodliffe Hall
   site: http://www.gipsyhill.org.uk/pages/the-goodliffe-hall.php
   email: goodliffehall@gipsyhill.org.uk
   neighbourhood: Gipsy Hill
@@ -20,3 +20,15 @@
     city:   London
     postcode: SE19 1DP
     tel: 020 8761 5927
+
+- name: Antenna Studios
+  site: http://antennastudios.co.uk
+  email: info@antennastudios.co.uk
+  neighbourhood: Crystal Palace
+  address:
+    street: Bowyers Yard, Haynes Lane
+    city: London
+    postcode: SE19 3AN
+    tel: 020 8653 5200
+
+
