@@ -13,15 +13,12 @@ Antenna Studios – Street dance
 4 to 4:30pm – Kids  (4 to 7 years old)
 4:30 to 5:10pm – Junior (8 to 12 years old)
 5:10 to 5:50 – Biggies (13+)
-5:50 to 6:30 – Seniors (11+)
 
 WEDNESDAY 
 Antenna Studios – Pilates and Dance
 
 Timetable TBC
 
-
-STREET DANCE CLASSES (VENUE TBC)
 
 THURSDAY
 Goodliffe Hall, Christ Church – Ballet
