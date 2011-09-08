@@ -2,7 +2,7 @@
 
 Arianna Wills
 
-Email: <info@eosdance.co.uk>
+Email: <ari@eosdance.co.uk>
 
 Phone: 07833 148510
 
